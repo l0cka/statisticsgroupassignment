@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Everstain Investment Group}{3}%
+\contentsline {subsection}{\numberline {1.1}Frequency Distribution of Monthly Payments for all Employees}{3}%
+\contentsline {subsection}{\numberline {1.2}Frequency Distribution of Monthly Payment of Males}{3}%
+\contentsline {subsection}{\numberline {1.3}Frequency Distribution of Monthly Payment of Females}{4}%
+\contentsline {subsection}{\numberline {1.4}Descriptive Statistics Summary}{4}%
+\contentsline {subsection}{\numberline {1.5}Gender Pay Gap Calculation}{5}%
+\contentsline {subsection}{\numberline {1.6}Summary of findings}{5}%
+\contentsline {section}{\numberline {2}Warhammer}{6}%
+\contentsline {subsection}{\numberline {2.1}Contingency Tables}{6}%
+\contentsline {subsubsection}{\numberline {2.1.1}Counts}{6}%
+\contentsline {subsubsection}{\numberline {2.1.2}Relative Frequency}{6}%
+\contentsline {subsection}{\numberline {2.2}Graphs}{6}%
+\contentsline {subsection}{\numberline {2.3}Is time spent with friends and shopping behaviour independent?}{7}%
+\contentsline {subsection}{\numberline {2.4}Summary}{8}%
+\contentsline {section}{\numberline {3}Istanbul International Airport}{9}%
+\contentsline {subsection}{\numberline {3.1}Data}{9}%
+\contentsline {subsubsection}{\numberline {3.1.1}Visualisation}{9}%
+\contentsline {subsubsection}{\numberline {3.1.2}Descriptive Statistics Summary}{9}%
+\contentsline {subsection}{\numberline {3.2}Computations}{10}%
+\contentsline {subsubsection}{\numberline {3.2.1}Average time to wait to see the next baggage}{10}%
+\contentsline {subsubsection}{\numberline {3.2.2}Probability Calculations}{10}%
+\contentsline {section}{\numberline {4}MyOriental}{11}%
+\contentsline {subsection}{\numberline {4.1}Approaches to summarise the dataset}{11}%
+\contentsline {subsection}{\numberline {4.2}Why a sample mean can serve as an estimate for the mean daily revenue of that city but the accuracy of the estimate is not the same across cities}{11}%
